@@ -7,8 +7,6 @@
 
 This app lets you view a list of github users.
 
-Use <a href=https://challenge-13-candidate-search.onrender.com/>this</a> link to go to the deployed site!
-
 ## Table of Contents
 
 - [Required-Technologies](#required-technologies)
@@ -20,8 +18,7 @@ Use <a href=https://challenge-13-candidate-search.onrender.com/>this</a> link to
 - [Future-Features](#future-features)
 - [License](#license)
 - [Technologies](#technologies-used)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
+
 
 ## Required Technologies
 
@@ -109,17 +106,3 @@ Licensed under the MIT license.
 <li>Mozila Web Docs and W3 Schools (for getting help with JavaScript).</li>
 </ul>
 
-## Credits
-
-<ul>
-<li>Joshua Pruitt (me)</li>
-<li>Coding bootcamp staff (for their help with Coding)</li>
-<ul>
-
-## Contact Me
-
-<ul>
-<li>My email: joshuapruitt6484@gmail.com</li>
-<li><a href=https://github.com/JoshuaPruitt>My GitHub</a></li>
-<li><a href=https://www.linkedin.com/in/joshua-pruitt-1a494a311>My LinkedIn</a></li>
-</ul>
